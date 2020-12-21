@@ -8,5 +8,5 @@ cp -r ~/.emacs.d ~/.emacs.d.bak
 ```
 Run the folowing command and enjoy
 ```
-git clone https://github.com/SDAChess/dotemacs.git
+git clone https://github.com/SDAChess/dotemacs.git ~/.emacs.d
 ```
