@@ -1,0 +1,9 @@
+Dependencies: 
+
+Firacode Retina Font
+
+First run :
+
+```
+M-x all-the-icons-install-fonts
+``` 
