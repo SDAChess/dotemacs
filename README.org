@@ -1,9 +1,20 @@
-Dependencies: 
+#+TITLE SDA's Emacs configuration
 
-Firacode Retina Font
+* My Emacs configuration
+  
 
-First run :
+  Hello guys! There is nothing much there... do you wanna see some cool maths ? 
 
-```
-M-x all-the-icons-install-fonts
-``` 
+  $\forall x \in \mathbb{R}$
+
+
+  #begin_src python
+  a = 2
+  def test(a, b, c):
+      return a + b + c
+  #end_src python
+  
+  
+* I use a completely ridiculous font and I love it!
+
+  
